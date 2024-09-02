@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="VulkanGame.cpp">
+    <ClCompile Include="GLGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
